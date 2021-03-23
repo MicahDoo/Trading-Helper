@@ -1,2 +1,3 @@
 # DSAI-HW2-2021
-2021 DSAI HW2 Template
+
+Please clearly write your idea.
